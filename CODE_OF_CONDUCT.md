@@ -1,14 +1,14 @@
 ## Application
 All contributors to this project are expected to abide by the given code of conduct at all times. Violations through any media, including but not limited to PR comment sections, issues, and external sources such as gmail can be reported and will be reviewed.
 
-## Contributor Expectation
+## Contributor Expectations
 Contributors are expected to create an open, inviting environment for users and fellow developers alike. Contributors are expected to maintain the following sentiments in all interactions:
 - Respect
 - Empathy
 - Patience
 
 ## Violations
-Instances of violations of the code of conduct is any behavior judged by the maintainers to be contrary to the Contributor Expectations. Such instances include:
+Instances of violations of the code of conduct is any behavior judged by the maintainers to be contrary to the Contributor Expectations. Examples of unacceptable behavior include:
 - malicious/hateful language
 - bullying/harrasment or threats
 - evident personal prejudice in feedback
